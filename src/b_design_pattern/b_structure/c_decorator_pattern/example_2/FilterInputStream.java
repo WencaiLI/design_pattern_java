@@ -23,6 +23,9 @@ public class FilterInputStream extends InputStream {
         this.inputStream = inputStream;
     }
 
+    public FilterInputStream() {
+    }
+
 
     public int read(byte[] bytes) throws IOException {
         return inputStream.read(bytes);
