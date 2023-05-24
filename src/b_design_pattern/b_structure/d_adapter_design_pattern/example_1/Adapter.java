@@ -6,7 +6,7 @@ import b_design_pattern.b_structure.d_adapter_design_pattern.ITarget;
 /**
  * 基于继承的适配器模式
  * <br>
- *
+ * 1. 封装有缺陷的接口设计
  * @author liwencai
  * @since 2023/5/23
  */
