@@ -5,7 +5,7 @@ public class Demo {
     /**
      * /
      * /wz/
-     * /wz/a.txt
+     * /wz/b_template_design_pattern.txt
      * /wz/b.txt
      * /wz/movies/
      * /wz/movies/c.avi
@@ -19,7 +19,7 @@ public class Demo {
     fileSystemTree.addSubNode(node_wz);
     fileSystemTree.addSubNode(node_xzg);
 
-    File node_wz_a = new File("/wz/a.txt");
+    File node_wz_a = new File("/wz/b_template_design_pattern.txt");
     File node_wz_b = new File("/wz/b.txt");
     Directory node_wz_movies = new Directory("/wz/movies/");
     node_wz.addSubNode(node_wz_a);

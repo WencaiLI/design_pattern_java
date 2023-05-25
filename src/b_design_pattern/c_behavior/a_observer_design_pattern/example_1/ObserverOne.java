@@ -8,6 +8,6 @@ public class ObserverOne extends Observer{
 
     @Override
     void update(String message) {
-        System.out.println("observer one receive a message : "+message);
+        System.out.println("observer one receive b_template_design_pattern message : "+message);
     }
 }
