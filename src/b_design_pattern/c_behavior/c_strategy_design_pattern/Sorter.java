@@ -1,4 +1,4 @@
-package b_design_pattern.d_strategy_design_pattern;
+package b_design_pattern.c_behavior.c_strategy_design_pattern;
 
 import java.io.File;
 import java.util.ArrayList;
